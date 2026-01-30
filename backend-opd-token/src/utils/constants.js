@@ -1,0 +1,18 @@
+const PRIORITY = {
+
+   EMERGENCY: 1,
+   PAID_PRIORITY: 2,
+   FOLLOW_UP: 3,
+   WALK_IN: 4
+
+}
+
+
+const SLOT = {
+  DEFAULT_MAX_CAPACITY: 6,
+  HARD_LIMIT: 8,
+  AVG_CONSULTATION_MINS: 10
+};
+
+
+module.exports = {  PRIORITY,SLOT};
