@@ -120,9 +120,9 @@ Simualtion : have created a file simualtion.js , simulation of one OPD day with 
 HAdnwritten logic
 
 
-![Handwritten Logic](./assets/1.jpeg)
-![Handwritten Logic](./assets/2.jpeg)
-![Handwritten Logic](./assets/3.jpeg)
+![Handwritten Logic](./backend-opd-token/assets/1.jpeg)
+![Handwritten Logic](./backend-opd-token/assets/2.jpeg)
+![Handwritten Logic](./backend-opd-token/assets/3.jpeg)
 
 
 
